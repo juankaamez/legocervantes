@@ -1,0 +1,5 @@
+{
+  "name": "LEGO AI Sorter Challenge",
+  "description": "A project guide and challenge page for building an AI-powered LEGO brick classifier using micro:bit, Wukong, a camera, and Python.",
+  "requestFramePermissions": []
+}

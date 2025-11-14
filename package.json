@@ -1,0 +1,19 @@
+{
+  "name": "lego-ai-sorter-challenge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A project to build an AI-powered LEGO sorter with micro:bit and Python.",
+  "scripts": {
+    "start": "echo \"Open index.html in a browser to start\"",
+    "build": "echo \"No build step required for this static site.\""
+  },
+  "keywords": [
+    "react",
+    "microbit",
+    "lego",
+    "ai",
+    "tensorflow",
+    "netlify"
+  ],
+  "author": ""
+}
